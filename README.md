@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.superslimegames.com">
-    <img src="./Assets/super-slime-games.png" alt="Super Slime Games — an indie game studio" width="800">
+    <img src="./Assets/super-slime-games-transparent.gif" alt="Super Slime Games — an indie game studio" width="800">
   </a>
 
   <h3>A fantastically slimy game studio.</h3>
